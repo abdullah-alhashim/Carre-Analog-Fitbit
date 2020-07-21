@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appUUID": "bf8e9b66-7c7a-4499-9c0f-a4d76bfb3391",
+    "appType": "clockface",
+    "appDisplayName": "Hermes Analog",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hermes Analog"
+      }
+    }
+  }
+}
